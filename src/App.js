@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <div className="App">
+    <div style={{fontSize:'24px', textAlign:'center'}}>
       Moshe Sommers
     </div>
   );
